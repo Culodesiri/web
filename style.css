@@ -33,12 +33,14 @@ h1 {
     margin-top: 10px;
 }
 
-h2, h3 {
+h2,
+h3 {
     color: #34495e;
     margin-top: 20px;
 }
 
-p, ul {
+p,
+ul {
     font-size: 16px;
     margin-bottom: 15px;
 }
